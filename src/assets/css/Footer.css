@@ -1,0 +1,30 @@
+.footer{
+    /* margin-top: 20px; */
+    background-color:#0006B1;
+    color: #fff;
+    padding:50px 40px ;
+    text-align: center;
+    position: relative;
+    margin-top: 20px;
+}
+
+
+.phone span,.street span{
+    margin-left: 10px;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.law{
+    margin-top: 10px;
+    font-size:23px ;
+}
+.copy-right{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
