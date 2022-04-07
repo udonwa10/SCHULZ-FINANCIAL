@@ -1,6 +1,6 @@
 .footer{
     /* margin-top: 20px; */
-    background-color:#0006B1;
+    background-color: navy;
     color: #fff;
     padding:50px 40px ;
     text-align: center;
@@ -20,8 +20,10 @@
 
 .law{
     margin-top: 10px;
-    font-size:23px ;
+    font-size:19px ;
+    padding:5rem
 }
+
 .copy-right{
     position: absolute;
     bottom: 0;
